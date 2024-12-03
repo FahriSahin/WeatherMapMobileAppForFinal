@@ -53,8 +53,8 @@ uygulamayı localde kullanabilmek için gerekli kütüphaneler yüklendikten son
 
 # Uygulama içi resimler 
 
-![loginpage](https://github.com/user-attachments/assets/3032c50c-6bd8-4834-ade4-60ade954392b?raw=true)
-![uygulama içi resim](https://github.com/user-attachments/assets/8ccfbde5-3656-4d5b-9424-d3786ca4a4d9)
-![Uygulama içi resim2](https://github.com/user-attachments/assets/b33559ed-f34e-4b76-969d-c0e72124af2a)
-![Uygulama içi resim 3](https://github.com/user-attachments/assets/b2f9491a-d62c-46d6-9ad9-e8ab613d8472)
+<img src="https://github.com/user-attachments/assets/3032c50c-6bd8-4834-ade4-60ade954392b?raw=true" width="50%" />
+<img src="https://github.com/user-attachments/assets/8ccfbde5-3656-4d5b-9424-d3786ca4a4d9?raw=true" width="50%" />
+<img src="https://github.com/user-attachments/assets/b33559ed-f34e-4b76-969d-c0e72124af2a?raw=true" width="50%" />
+<img src="https://github.com/user-attachments/assets/b2f9491a-d62c-46d6-9ad9-e8ab613d8472?raw=true" width="50%" />
 
